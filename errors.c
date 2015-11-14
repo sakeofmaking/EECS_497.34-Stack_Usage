@@ -1,5 +1,3 @@
-# EECS_497.34-Stack_Usage
-AVR: Detect stack usage
 /******************************************************************************
  * File Name:	errors.c
  * Program:		Project for Fundamentals of Embedded Systems class
